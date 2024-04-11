@@ -17,3 +17,4 @@
 |ID| Pasta|Descrição|Data de Modificação|
 |--|--|--|--|
 |1|[Alt Tab](https://github.com/marcoskw/automacoes/tree/main/alt_tab)|Programa que faz o comando Alt+Tab automaticamente|10/04/2024
+|2|[Remove Arquivos por extensão](https://github.com/marcoskw/automacoes/tree/main/remove_arquivos_por_extensao)|Remove Arquivos com uma determinada extensão|11/04/2024
